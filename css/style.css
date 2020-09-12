@@ -1,8 +1,13 @@
+body {
+    background: url(../images/wood-1963988_1920.jpg)no-repeat center/cover;
+}
+
 article {
     width: 80%;
     border: 10px solid brown;
     padding: 0rem 4rem;
     margin-bottom: 4rem;
+    background-color: white;
 }
 
 h1 {

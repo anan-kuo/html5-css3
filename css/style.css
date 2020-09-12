@@ -1,0 +1,13 @@
+article {
+    width: 80%;
+    border: 10px solid brown;
+    padding: 0rem 4rem;
+    margin-bottom: 4rem;
+}
+
+h1 {
+    color: rgb(34, 31, 230);
+    text-align: center;
+    font-size: 3rem;
+    font-family: 標楷體;
+}
